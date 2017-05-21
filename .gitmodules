@@ -1,0 +1,12 @@
+[submodule "snort3"]
+	path = snort3
+	url = https://github.com/snortadmin/snort3.git
+[submodule "squid"]
+	path = squid
+	url = https://github.com/squid-cache/squid.git
+[submodule "kerberos"]
+	path = kerberos
+	url = https://github.com/christkv/kerberos.git
+[submodule "node-iptables"]
+	path = node-iptables
+	url = https://github.com/pkrumins/node-iptables
